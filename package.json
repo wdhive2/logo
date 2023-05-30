@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "convert-svg-to-png": "^0.6.4"
+  }
+}
