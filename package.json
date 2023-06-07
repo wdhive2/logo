@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "build": "node index.js"
+    "build": "resize-icon ./svg ."
   },
   "dependencies": {
-    "convert-svg-to-png": "^0.6.4"
+    "resize-icon": "latest"
   }
 }
