@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "build": "resize-icon ./svg ."
+    "build": "resize-svg ./svg ."
   },
   "dependencies": {
-    "resize-icon": "latest"
+    "resize-svg": "latest"
   }
 }
